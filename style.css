@@ -191,7 +191,7 @@ span2{
     opacity: 1;
     animation: mouse 2s infinite;
 }
-
+/*
 @keyframes mouse {
     from{
         opacity: 1;
@@ -202,7 +202,7 @@ span2{
         top: 25px;
     }   
 }
-
+*/
 
 /* About Section */
 
